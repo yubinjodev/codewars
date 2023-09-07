@@ -1,7 +1,11 @@
 /**
+ * Title: Break camelCase
  * Author: Yubin Jo
  * Date: 2023-09-07
  * Status: in-progress
+ * Link: https://www.codewars.com/kata/5208f99aee097e6552000148
+ * Instructions: break the camelcase
+ * camelCase => camel Case
  */
 
 const spaceInsert = (newString, indexArr, regex) => {
